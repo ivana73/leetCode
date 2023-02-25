@@ -1,1 +1,6 @@
 .DS_Store
+.metadata
+.leet100
+.leet100/bin/leet100
+leet100/src/leet100/Solution.java
+leet100/bin/leet100/Solution.class
